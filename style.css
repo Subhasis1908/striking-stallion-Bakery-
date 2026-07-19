@@ -1,2 +1,19 @@
 body {
 }
+body {
+    background: #fff8f0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: darkred;
+}
+
+button {
+    background: orange;
+    color: white;
+    padding: 8px 15px;
+    border: none;
+    border-radius: 5px;
+}
